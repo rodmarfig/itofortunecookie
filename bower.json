@@ -1,0 +1,25 @@
+{
+  "name": "prj-fortunecookie",
+  "description": "aplicacion de galleta de la fortuna",
+  "main": "server.js",
+  "authors": [
+    "@rodmarfig"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "fortune",
+    "cookie"
+  ],
+  "homepage": "https://github.com/rodmarfig/itofortunecookie",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sweetalert": "^1.1.3"
+  }
+}
